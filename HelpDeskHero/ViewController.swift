@@ -32,6 +32,7 @@ class ViewController: UIViewController {
     var chatEmailAgents = 0
     var HDQAAgents = 0
     
+    //more points initialization
     var pick1Cost = 20
     var pick3Cost = 200
     var chatEmailCost = 2000
